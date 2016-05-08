@@ -1,0 +1,12 @@
+package ecst.universalNodes;
+//owl Metrics
+
+import ecst.ECSTNode;
+
+public class Axiom extends ECSTNode {
+
+	public Axiom(String token) {
+		super(token);
+	}
+
+}

@@ -1,0 +1,16 @@
+package ecst.universalNodes;
+
+import ecst.ECSTNode;
+//svc.owlmetrics.east.universalNodes
+
+public class Operator extends Lexeme {
+
+	public Operator(String token) {
+		super(token);
+	}
+	
+	public Operator(String token, ECSTNode parent) {
+		super(token, parent);
+	}
+
+}

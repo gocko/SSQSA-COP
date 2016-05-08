@@ -1,0 +1,10 @@
+package ecst.universalNodes;
+//svc.owlmetrics.east
+
+public class PartialBinaryRelation extends Relation {
+
+	public PartialBinaryRelation(String token) {
+		super(token);
+	}
+
+}

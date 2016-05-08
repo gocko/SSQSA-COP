@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Created with Liquid XML Studio - 30 Day Trial Edition 7.1.4.1284 (http://www.liquid-technologies.com)-->
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element type="VersionNode" name="VersionElement"/>
+    
+  <xs:complexType name="ChildNode">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="token" type="Token" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="childElement" type="ChildNode" />
+    </xs:sequence>
+ </xs:complexType>
+  
+  
+<xs:complexType name="Token">
+  	<xs:attribute name="index" type="xs:int" use="optional" />
+  	<xs:attribute name="text" type="xs:string" />
+  	<xs:attribute name="type" type="xs:int" />
+  	<xs:attribute name="line" type="xs:int" />
+  	<xs:attribute name="column" type="xs:int" />
+  	<xs:attribute name="Tokens" type="xs:string"></xs:attribute>
+</xs:complexType>
+
+	<xs:complexType name="VersionNode">
+		<xs:sequence>
+			<xs:element name="Version" type="xs:string"></xs:element>
+			<xs:element minOccurs="0" maxOccurs="unbounded"
+				name="childElement" type="ChildNode" />
+		</xs:sequence>
+	</xs:complexType>
+
+</xs:schema>

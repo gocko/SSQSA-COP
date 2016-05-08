@@ -1,0 +1,35 @@
+9
+
+dir
+0
+https://ssqsa.googlecode.com/svn/trunk/SSQSA_v2.0/src/softNet
+https://ssqsa.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6b1afb3b-01db-5a7e-8b77-bebe3b00e718
+
+SoftNet.java
+file
+
+
+
+add
+

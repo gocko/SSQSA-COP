@@ -1,0 +1,13 @@
+package ecst.universalNodes; 
+import ecst.ECSTNode;
+//svc.owlmetrics.east.universalNodes;
+
+public class SRelation extends Relation {
+
+	public SRelation(String token) {
+		super(token);
+	}
+	
+	
+
+}

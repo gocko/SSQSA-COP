@@ -1,0 +1,17 @@
+package ecst.universalNodes;
+
+import ecst.ECSTNode;
+
+//svc.owlmetrics.east.universalNodes
+
+public class Keyword extends Lexeme {
+
+	public Keyword(String token) {
+		super(token);
+	}
+	
+	public Keyword(String token, ECSTNode parent) {
+		super(token, parent);
+	}
+
+}

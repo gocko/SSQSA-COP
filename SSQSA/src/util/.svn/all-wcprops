@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util
+END
+DirStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util/DirStructure.java
+END
+FileFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util/FileFind.java
+END
+LOG.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util/LOG.java
+END
+DirectoryWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util/DirectoryWalker.java
+END
+InputOutputManipulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/util/InputOutputManipulator.java
+END
