@@ -1,0 +1,10 @@
+package ecst.universalNodes;
+//svc.owlmetrics
+
+public class BinaryRelation extends Relation {
+
+	public BinaryRelation(String token) {
+		super(token);
+	}
+
+}

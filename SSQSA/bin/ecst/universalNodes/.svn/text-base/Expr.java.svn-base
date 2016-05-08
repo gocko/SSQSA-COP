@@ -1,0 +1,20 @@
+package ecst.universalNodes; //svc.owlmetrics.east.universalNodes;
+
+import ecst.ECSTNode;
+//svc.owlmetrics.east.EastNode;
+
+public class Expr extends ECSTNode {
+
+	
+	
+	public Expr(String token, ECSTNode parent) {
+		// mustHaveName = true
+		// mustHaveType = true
+		super(token, parent);
+	}
+	
+	public Expr(String token) {
+		super(token);
+	}
+
+}

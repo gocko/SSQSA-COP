@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes
+END
+Axiom.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Axiom.java
+END
+Implements.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Implements.java
+END
+SRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/SRelation.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Name.java
+END
+Instantiates.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Instantiates.java
+END
+BlockScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/BlockScope.java
+END
+AttributeDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/AttributeDecl.java
+END
+Dst.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Dst.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Operator.java
+END
+Src.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Src.java
+END
+FunctionDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/FunctionDecl.java
+END
+Argument.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Argument.java
+END
+NameIgnore.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/NameIgnore.java
+END
+FormalParamList.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/FormalParamList.java
+END
+ArgumentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/ArgumentList.java
+END
+FunctionCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/FunctionCall.java
+END
+Expr.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Expr.java
+END
+ConcreteUnitDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/ConcreteUnitDecl.java
+END
+ParameterDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/ParameterDecl.java
+END
+Ignore.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Ignore.java
+END
+VarDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/VarDecl.java
+END
+PackageDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/PackageDecl.java
+END
+ImportDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/ImportDecl.java
+END
+SymTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/SymTab.java
+END
+LocalSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/LocalSymbolTable.java
+END
+Keyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Keyword.java
+END
+InterfaceUnitDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/InterfaceUnitDecl.java
+END
+Separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Separator.java
+END
+TypeDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/TypeDecl.java
+END
+Const.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Const.java
+END
+Lexeme.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Lexeme.java
+END
+PartialBinaryRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/PartialBinaryRelation.java
+END
+BinaryRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/BinaryRelation.java
+END
+Relation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Relation.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Type.java
+END
+Extends.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/Extends.java
+END
+RewrittenRetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/RewrittenRetType.java
+END
+UnknownRetType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/SSQSA_v2.0/src/ecst/universalNodes/UnknownRetType.java
+END

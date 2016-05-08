@@ -1,0 +1,17 @@
+package ecst.universalNodes;
+
+import ecst.ECSTNode;
+
+//svc.owlmetrics.east.
+
+public class Const extends Lexeme {
+
+	public Const(String token) {
+		super(token);
+	}
+	
+	public Const(String token, ECSTNode parent) {
+		super(token);
+	}
+
+}
