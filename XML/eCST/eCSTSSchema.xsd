@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2015 sp2 (http://www.altova.com) by RG (PMF) -->
+<!--Created with Liquid XML Studio - 30 Day Trial Edition 7.1.4.1284 (http://www.liquid-technologies.com)-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="childElement" type="ChildNode"/>
+	<xs:complexType name="ChildNode">
+		<xs:sequence>
+			<xs:element name="token" type="Token" minOccurs="0"/>
+			<xs:element name="childElement" type="ChildNode" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Token">
+		<xs:attribute name="index" type="xs:int" use="optional"/>
+		<xs:attribute name="text" type="xs:string"/>
+		<xs:attribute name="type" type="xs:int"/>
+		<xs:attribute name="line" type="xs:int"/>
+		<xs:attribute name="column" type="xs:int"/>
+		<xs:attribute name="Tokens" type="xs:string"/>
+	</xs:complexType>
+	<xs:complexType name="VersionNode">
+		<xs:sequence>
+			<xs:element name="Version" type="xs:string"/>
+			<xs:element name="childElement" type="ChildNode" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

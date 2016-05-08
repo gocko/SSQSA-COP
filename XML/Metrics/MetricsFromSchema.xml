@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XMLSchema.xsd">
+  <entity type="">
+    <name>name</name>
+    <FQN>FQN</FQN>
+    <metrics>
+      <CC>0</CC>
+      <LOC>0</LOC>
+      <NOP>0</NOP>
+      <NOC>0</NOC>
+      <DIT>0</DIT>
+      <NOCH>0</NOCH>
+      <CBO>0</CBO>
+      <Halstead Difficulty="0.0" Effort="0.0" Inteligence="0.0" Level="0.0" N="0" N1="0" N2="0" Time="0.0" Volume="0.0" n="0" n1="0" n2="0"/>
+    </metrics>
+  </entity>
+</component>
